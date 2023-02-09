@@ -2,7 +2,7 @@
 
 Za znanca, ki je zaposlen v državni inštituciji, sem napisala skripto za izračun podatkov za statistično obdelavo. 
 
-Vhodni podatki so bili podani tako: identifikacijska številka, začetni datum in končni datum (300.000 vrstic). Potrebno je bilo izračunati, koliko število dni v tem obdobju spada v vsako izmed podanih fiksnih 5 letnih obdobij.
+Vhodni podatki so bili podani tako: identifikacijska številka, začetni datum in končni datum (300.000 vrstic). Potrebno je bilo izračunati, koliko dni tega obdobja spada v vsako izmed podanih fiksnih 5 letnih obdobij.
 
 ## Uporaba
 
